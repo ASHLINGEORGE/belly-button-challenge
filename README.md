@@ -28,7 +28,7 @@ To enhance user interactivity, the project features a dropdown menu. This menu e
 
 ## Deployment
 
-Link for the webpage: 
+Link for the webpage: https://ashlingeorge.github.io/belly-button-challenge/
 
 
 ## Authors
